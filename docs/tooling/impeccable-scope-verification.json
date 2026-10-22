@@ -1,0 +1,39 @@
+{
+  "verificationDate": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "reason": "User selected comprehensive mature-library scope; verify updated product context after document changes.",
+  "context": {
+    "exitCode": 0,
+    "resolved": {
+      "targetPath": null,
+      "projectRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "repoRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "productPath": "PRODUCT.md",
+      "designPath": "DESIGN.md",
+      "surfaceBriefPath": null,
+      "surfaceBriefReason": "none",
+      "surfaceBriefCandidates": [],
+      "hasVisualImplementation": false,
+      "platform": "web"
+    },
+    "completeProductSourceLoaded": true,
+    "updatedAdvancedScopeLoaded": true,
+    "productSha256": "bf3f9fa04bfba8abca093efba67622717de96020f212ab3461903a5c7353ced1"
+  },
+  "doctor": {
+    "exitCode": 0,
+    "output": {
+      "projectRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "repoRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "isMonorepo": false,
+      "productPath": "PRODUCT.md",
+      "designPath": "DESIGN.md",
+      "platform": "web",
+      "ruleRegistryAvailable": true,
+      "findings": [],
+      "workspaces": []
+    }
+  },
+  "componentCodeCreated": false,
+  "browserAcceptancePerformed": false
+}

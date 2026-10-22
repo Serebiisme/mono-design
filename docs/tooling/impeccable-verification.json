@@ -1,0 +1,107 @@
+{
+  "verificationDate": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "projectRoot": "/Users/bytedance/Documents/workspace/mono-design",
+  "installation": {
+    "repo": "pbakaus/impeccable",
+    "commit": "8644175285360c166e57b1e35ecadfbc85ff5209",
+    "sourcePath": ".agents/skills/impeccable",
+    "skillDirectory": "/Users/bytedance/.codex/skills/impeccable",
+    "skillVersion": "4.7.0",
+    "engineVersion": "0.1.16",
+    "skillSha256": "88e9a46a91b6ddd1059f03f578bd0f9bbe6d212d6a395124379b9bb5c97c5cf2",
+    "launcherSha256": "f5d9fcd37559ed6af782306f71b7688ad1ec5e1a4f8ae1ef4d3168f42523b1b1"
+  },
+  "engineProbe": {
+    "exitCode": 0,
+    "output": "impeccable-engine 0.1.16"
+  },
+  "context": {
+    "exitCode": 0,
+    "resolved": {
+      "targetPath": null,
+      "projectRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "repoRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "productPath": "PRODUCT.md",
+      "designPath": "DESIGN.md",
+      "surfaceBriefPath": null,
+      "surfaceBriefReason": "none",
+      "surfaceBriefCandidates": [],
+      "hasVisualImplementation": false,
+      "platform": "web"
+    },
+    "completeProductSourceLoaded": true,
+    "completeDesignSourceLoaded": true,
+    "productSha256": "bb17bb019527172d8e4e08c9c337c68559b9fac20d70bdc39fbc2f33b917c20e",
+    "designSha256": "a3f6f84eed7eb3f44e4a7017938f31898aa1d2ac3472c97cfd6307f9d779b776"
+  },
+  "doctor": {
+    "exitCode": 0,
+    "output": {
+      "projectRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "repoRoot": "/Users/bytedance/Documents/workspace/mono-design",
+      "isMonorepo": false,
+      "productPath": "PRODUCT.md",
+      "designPath": "DESIGN.md",
+      "platform": "web",
+      "ruleRegistryAvailable": true,
+      "findings": [],
+      "workspaces": []
+    }
+  },
+  "signals": {
+    "exitCode": 0,
+    "output": {
+      "setup": {
+        "hasProduct": true,
+        "productPath": "PRODUCT.md",
+        "hasDesign": true,
+        "designPath": "DESIGN.md",
+        "hasCode": false,
+        "platform": "web"
+      },
+      "critique": {
+        "latest": null
+      },
+      "git": {
+        "isRepo": false,
+        "branch": null,
+        "base": null,
+        "changedFiles": [],
+        "changedCount": 0
+      },
+      "devServer": {
+        "running": false,
+        "ports": []
+      },
+      "scan": {
+        "targets": [],
+        "via": null
+      }
+    }
+  },
+  "shapeReadiness": {
+    "listedInHelp": true,
+    "metadataPresent": true,
+    "playbookReadable": true,
+    "playbookPath": "/Users/bytedance/.codex/skills/impeccable/reference/shape.md",
+    "playbookSha256": "a55f016c046cb6a27c55bd7f346375aeb506a755c4fbca19a5f92dbd42309c23",
+    "fullInterviewExecuted": false,
+    "briefConfirmed": false
+  },
+  "configuration": {
+    "productLink": "PRODUCT.md -> docs/product.md",
+    "designLink": "DESIGN.md -> docs/design-system.md",
+    "automaticEditHookEnabled": false,
+    "liveBrowserConfigured": false,
+    "buildPathPreferencePersisted": false
+  },
+  "scope": {
+    "componentCodeCreated": false,
+    "productScaffoldCreated": false,
+    "productDependenciesInstalled": false,
+    "gitInitialized": false,
+    "browserAcceptancePerformed": false
+  },
+  "discovery": "Newly installed skill is available to Codex on the next turn; this verification invoked the installed scripts and read its playbook directly."
+}
